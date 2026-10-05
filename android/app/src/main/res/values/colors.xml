@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rose_primary">#E11D48</color>
+    <color name="rose_on_primary">#FFFFFF</color>
+    <color name="rose_primary_container">#FFE4E6</color>
+    <color name="rose_on_primary_container">#9F1239</color>
+    <color name="rose_background">#FFF5F6</color>
+    <color name="rose_surface">#FFFFFF</color>
+    <color name="rose_surface_variant">#FFEBF0</color>
+    <color name="text_main">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="maybank_yellow">#EAB308</color>
+    <color name="alliance_blue">#2563EB</color>
+</resources>

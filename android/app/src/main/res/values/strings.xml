@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TABUNG HARAPAN</string>
+    <string name="dashboard">Ringkasan</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="tabung">Tabung</string>
+    <string name="cc">Kad Kredit</string>
+</resources>

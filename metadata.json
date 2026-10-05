@@ -1,0 +1,6 @@
+{
+  "name": "TABUNG HARAPAN 2026",
+  "description": "Aplikasi pengurusan simpanan peribadi dan kad kredit bertema Soft Pink & Material 3 dengan pengiraan baki automatik dan sokongan APK Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
